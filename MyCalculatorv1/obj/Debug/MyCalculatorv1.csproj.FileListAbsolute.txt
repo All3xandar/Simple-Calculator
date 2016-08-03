@@ -24,3 +24,6 @@ C:\Users\aivanovic\Desktop\Simple Calculator\C#\MyCalculatorv1\obj\Debug\MyCalcu
 C:\Users\aivanovic\Desktop\Simple Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.g.resources
 C:\Users\aivanovic\Desktop\Simple Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.Properties.Resources.resources
 C:\Users\aivanovic\Desktop\Simple Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.csproj.GenerateResource.Cache
+C:\Users\aivanovic\Source\Repos\Simple-Calculator\MyCalculatorv1\bin\Debug\MyCalculatorv1.exe.config
+C:\Users\aivanovic\Source\Repos\Simple-Calculator\MyCalculatorv1\obj\Debug\MyCalculatorv1.exe
+C:\Users\aivanovic\Source\Repos\Simple-Calculator\MyCalculatorv1\obj\Debug\MyCalculatorv1.pdb
